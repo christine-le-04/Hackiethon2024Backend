@@ -56,5 +56,3 @@ class Script:
             return LIGHT
         
         return FORWARD
-        
-# heyyy
